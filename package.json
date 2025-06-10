@@ -1,0 +1,21 @@
+{
+  "name": "company-summary-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Kabir Roshan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cheerio": "^1.1.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^5.2.0"
+  }
+}
